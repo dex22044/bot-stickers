@@ -1,3 +1,6 @@
 [
-	"walking-cat": "id000000001"
+	{
+		"Name": "walking-cat",
+		"Id": "id000000001"
+	}
 ]
